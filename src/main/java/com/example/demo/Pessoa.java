@@ -64,7 +64,7 @@ public class Pessoa {
         this.altura = altura;
     }
 
-    // Método toString para exibir informações
+    // Método toString para exibir informaçõessss
     @Override
     public String toString() {
         return "Pessoa{" +
